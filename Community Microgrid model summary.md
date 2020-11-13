@@ -4,6 +4,6 @@ Chapter 3 - Experimental methodology describes the models for
 - P2P energy sharing using multi-user coalition
 ## Model for Energy storage sharing using third party operator
 **Objective Function -** 
-$$ \min \sum_{t=1}^{T}\left(p(t) \cdot\left(x^{+}(t)+y(t)\right)+\beta \cdot x^{+}(t)\right) $$ 
+$$\min \sum_{t=1}^{T}\left(p(t) \cdot\left(x^{+}(t)+y(t)\right)+\beta \cdot x^{+}(t)\right)$$ 
 
 
