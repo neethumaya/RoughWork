@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T11:08:48.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="OGU7CnE9WoUw9MmgRiWv" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T11:13:44.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="AvHuZH4t_NLOvMONUc4C" version="14.7.7" type="github">
   <diagram id="BkngK3X7I9KQVH7am66S" name="Page-1">
     <mxGraphModel dx="716" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
         <mxCell id="1ZX6Y4KyPC9WGoFBthJF-7" value="Electrical Storage&lt;br&gt;b(t)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="641.6899999999999" y="265" width="58.38" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1ZX6Y4KyPC9WGoFBthJF-8" value="Electrical &lt;br&gt;Load&lt;br&gt;EL(t)" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1ZX6Y4KyPC9WGoFBthJF-8" value="Electrical &lt;br&gt;Load&lt;br&gt;P&lt;sub&gt;EL&lt;/sub&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="770" y="246" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1ZX6Y4KyPC9WGoFBthJF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF9933;" parent="1" source="1ZX6Y4KyPC9WGoFBthJF-15" target="1ZX6Y4KyPC9WGoFBthJF-23" edge="1">
@@ -75,7 +75,7 @@
             <mxPoint y="-13.14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1ZX6Y4KyPC9WGoFBthJF-15" value="PV(t)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1ZX6Y4KyPC9WGoFBthJF-15" value="P&lt;sub&gt;PV&lt;/sub&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="621.3800000000001" y="360" width="99" height="50.25" as="geometry" />
         </mxCell>
         <mxCell id="1ZX6Y4KyPC9WGoFBthJF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#3333FF;" parent="1" source="1ZX6Y4KyPC9WGoFBthJF-20" target="1ZX6Y4KyPC9WGoFBthJF-8" edge="1">
