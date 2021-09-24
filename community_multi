@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T16:49:07.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="vlg6N3YQYxBv4_zJbR4L" version="15.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-24T16:49:34.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="6aRR0Uhayy9nFj8QpCK-" version="15.2.9" type="github" pages="7">
   <diagram id="EMFC1VVA4xgdFe-DRC3P" name="Page-1">
     <mxGraphModel dx="1038" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1062,7 +1062,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="46w2eGZZxp7OzzRltlUV" name="Page-7">
-    <mxGraphModel dx="415" dy="196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dRO-K5j-kmnAQLQbQ2Qy-0" />
         <mxCell id="dRO-K5j-kmnAQLQbQ2Qy-1" parent="dRO-K5j-kmnAQLQbQ2Qy-0" />
@@ -1098,10 +1098,10 @@
             <mxPoint x="-3" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dRO-K5j-kmnAQLQbQ2Qy-10" value="Electrical Storage&lt;br&gt;SoC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dRO-K5j-kmnAQLQbQ2Qy-1">
+        <mxCell id="dRO-K5j-kmnAQLQbQ2Qy-10" value="Electrical Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dRO-K5j-kmnAQLQbQ2Qy-1">
           <mxGeometry x="490.30999999999995" y="240" width="58.38" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dRO-K5j-kmnAQLQbQ2Qy-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Electrical &lt;br&gt;Load&lt;br&gt;P&lt;sub&gt;EL&lt;/sub&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=15;" vertex="1" parent="dRO-K5j-kmnAQLQbQ2Qy-1">
+        <mxCell id="dRO-K5j-kmnAQLQbQ2Qy-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Electrical &lt;br&gt;Load&lt;br&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=15;" vertex="1" parent="dRO-K5j-kmnAQLQbQ2Qy-1">
           <mxGeometry x="600" y="240" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dRO-K5j-kmnAQLQbQ2Qy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF9933;strokeWidth=2;" edge="1" parent="dRO-K5j-kmnAQLQbQ2Qy-1" source="dRO-K5j-kmnAQLQbQ2Qy-18" target="dRO-K5j-kmnAQLQbQ2Qy-25">
@@ -1145,7 +1145,7 @@
             <mxPoint x="1" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dRO-K5j-kmnAQLQbQ2Qy-18" value="P&lt;sub&gt;PV&lt;/sub&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=15;" vertex="1" parent="dRO-K5j-kmnAQLQbQ2Qy-1">
+        <mxCell id="dRO-K5j-kmnAQLQbQ2Qy-18" value="PV" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=15;" vertex="1" parent="dRO-K5j-kmnAQLQbQ2Qy-1">
           <mxGeometry x="515.5000000000001" y="335" width="99" height="50.25" as="geometry" />
         </mxCell>
         <mxCell id="dRO-K5j-kmnAQLQbQ2Qy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;strokeWidth=2;startArrow=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dRO-K5j-kmnAQLQbQ2Qy-1" source="dRO-K5j-kmnAQLQbQ2Qy-38" target="dRO-K5j-kmnAQLQbQ2Qy-11">
