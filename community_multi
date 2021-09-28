@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T08:41:44.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="BnkGGiV6pitGB7GR9xFS" version="15.3.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-09-28T09:05:01.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="lwNT2laoMsW9O7lGtvUO" version="15.3.3" type="github" pages="10">
   <diagram id="EMFC1VVA4xgdFe-DRC3P" name="Page-1">
     <mxGraphModel dx="1038" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1524,7 +1524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LHu1v9cWwCQ69HzUU3E5" name="Page-10">
-    <mxGraphModel dx="716" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="JLhs1ty_m6MyWXonWDh2-0" />
         <mxCell id="JLhs1ty_m6MyWXonWDh2-1" parent="JLhs1ty_m6MyWXonWDh2-0" />
@@ -1801,6 +1801,17 @@
         </mxCell>
         <mxCell id="JLhs1ty_m6MyWXonWDh2-184" value="Energy&lt;br&gt;Exchange" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JLhs1ty_m6MyWXonWDh2-183">
           <mxGeometry x="-0.2455" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JLhs1ty_m6MyWXonWDh2-185" value="" style="endArrow=none;dashed=1;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="JLhs1ty_m6MyWXonWDh2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="360" as="sourcePoint" />
+            <mxPoint x="390" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JLhs1ty_m6MyWXonWDh2-186" value="CG Energy Cost" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="JLhs1ty_m6MyWXonWDh2-185">
+          <mxGeometry x="-0.9063" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
