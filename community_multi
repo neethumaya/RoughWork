@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T19:39:21.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="KiMmY0eQtSiGdOzk3vj3" version="15.4.3" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-10-09T19:42:06.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="PdVuB-y5a-h0mw0g6ggG" version="15.4.3" type="github" pages="13">
   <diagram id="EMFC1VVA4xgdFe-DRC3P" name="Page-1">
     <mxGraphModel dx="1038" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2267,17 +2267,6 @@
         <mxCell id="WHHCTmQUCV5GJUGN3-6v-12" value="" style="group" vertex="1" connectable="0" parent="WHHCTmQUCV5GJUGN3-6v-1">
           <mxGeometry x="80" y="290" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="WHHCTmQUCV5GJUGN3-6v-13" value="" style="endArrow=none;dashed=1;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WHHCTmQUCV5GJUGN3-6v-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="35" y="60" as="sourcePoint" />
-            <mxPoint x="265" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WHHCTmQUCV5GJUGN3-6v-14" value="CG Energy Cost" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="WHHCTmQUCV5GJUGN3-6v-13">
-          <mxGeometry x="-0.9063" y="4" relative="1" as="geometry">
-            <mxPoint x="-56" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WHHCTmQUCV5GJUGN3-6v-15" value="" style="group" vertex="1" connectable="0" parent="WHHCTmQUCV5GJUGN3-6v-12">
           <mxGeometry x="20" y="90" width="350" height="70" as="geometry" />
         </mxCell>
@@ -2340,16 +2329,14 @@
         <mxCell id="WHHCTmQUCV5GJUGN3-6v-29" value="" style="group" vertex="1" connectable="0" parent="WHHCTmQUCV5GJUGN3-6v-12">
           <mxGeometry width="350" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="WHHCTmQUCV5GJUGN3-6v-30" value="Energy&lt;br&gt;Exchange" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WHHCTmQUCV5GJUGN3-6v-29">
-          <mxGeometry x="237.2595786869682" y="-45.845365124595105" as="geometry">
-            <mxPoint x="-141" y="87" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WHHCTmQUCV5GJUGN3-6v-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;hachureGap=4;pointerEvents=0;strokeWidth=4;" vertex="1" parent="WHHCTmQUCV5GJUGN3-6v-29">
           <mxGeometry x="175" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WHHCTmQUCV5GJUGN3-6v-32" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Info&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Sharing&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WHHCTmQUCV5GJUGN3-6v-29">
           <mxGeometry x="117.00000813802086" y="53.00333333333339" width="58" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WHHCTmQUCV5GJUGN3-6v-61" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Energy&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Exchange&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WHHCTmQUCV5GJUGN3-6v-29">
+          <mxGeometry x="70" y="20" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WHHCTmQUCV5GJUGN3-6v-33" value="" style="endArrow=classic;startArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.682;exitY=0.142;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WHHCTmQUCV5GJUGN3-6v-12" source="WHHCTmQUCV5GJUGN3-6v-18" target="WHHCTmQUCV5GJUGN3-6v-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
